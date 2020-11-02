@@ -1,3 +1,4 @@
+package BasicProg;
 import java.util.Scanner;
 
 public class TempConverter {
