@@ -67,7 +67,7 @@ Here N=2, so we need to provide weight of only two stones but, we are providing 
 So result is “Wrong Input”
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Stones {
 

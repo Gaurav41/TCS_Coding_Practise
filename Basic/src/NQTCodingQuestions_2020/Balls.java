@@ -21,7 +21,7 @@ it’s a numeric value.
 For other inputs, return INVALID INPUT.
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Balls {
 

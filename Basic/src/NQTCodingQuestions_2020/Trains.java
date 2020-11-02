@@ -56,7 +56,7 @@ Output Values
 
 11
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Trains {
 

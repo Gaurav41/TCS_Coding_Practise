@@ -39,7 +39,7 @@ Total Income <Integer> INR
 
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Clinic {
 

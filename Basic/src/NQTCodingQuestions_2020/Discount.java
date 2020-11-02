@@ -56,7 +56,7 @@ Note:
 
 
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Discount {
 

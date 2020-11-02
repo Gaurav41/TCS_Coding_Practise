@@ -81,7 +81,7 @@ Output must be in the given format as in above example. For any wrong input fina
 
 
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class OxyLevel {
 

@@ -67,7 +67,7 @@ Output
 INVALID OUTPUT! 
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class CoffeMachine {
 

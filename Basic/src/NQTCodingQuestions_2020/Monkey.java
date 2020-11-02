@@ -42,7 +42,7 @@ Note: Kindly follow  the order of inputs as n,k,j,m,p as given in the above exam
 And output must include  the same format  as in above example(Number of Monkeys left on the Tree:<Integer>)
 For any wrong input display INVALID INPUT.
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Monkey {
 

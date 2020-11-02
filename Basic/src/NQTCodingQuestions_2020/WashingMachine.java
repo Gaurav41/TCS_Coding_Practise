@@ -42,7 +42,7 @@ Time Estimated: 25 minutes
 
 
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class WashingMachine {
 

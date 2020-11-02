@@ -55,7 +55,7 @@ Output 4800.0 INR
 
 Note that when customer do not opt for exchange offer, there will be only 2 inputs.
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 import java.util.Scanner;
 

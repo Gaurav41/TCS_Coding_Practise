@@ -53,7 +53,7 @@ Amit: 500 INR
 
 Rajesh: 250 INR
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class ChainMarketing {
 

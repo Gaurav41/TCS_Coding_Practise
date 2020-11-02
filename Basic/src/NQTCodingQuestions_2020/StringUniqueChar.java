@@ -1,4 +1,4 @@
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 import java.util.Scanner;
 

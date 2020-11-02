@@ -71,7 +71,7 @@ Note: Input prompt should not be the part of code
 
 Output should be in the format given above.
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class FoodApp {
 

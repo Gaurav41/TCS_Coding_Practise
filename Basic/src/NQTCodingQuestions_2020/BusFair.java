@@ -49,7 +49,7 @@ Note: Input and Output should be in format given in example.
 Input should not be case sensitive and output should be in the format <FLOAT>  INR
 
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 import java.util.Scanner;
 
 public class BusFair {

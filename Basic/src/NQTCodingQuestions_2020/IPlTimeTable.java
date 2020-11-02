@@ -40,7 +40,7 @@ MUMBAI-VS-PATNA
 
 KOLKATA-VS-PATNA
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class IPlTimeTable {
 

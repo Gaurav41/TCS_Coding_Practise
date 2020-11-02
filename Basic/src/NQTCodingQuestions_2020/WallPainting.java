@@ -28,7 +28,7 @@ Note: Follow in input and output format as given in above example
  */
 
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 import java.util.Scanner;
 
 public class WallPainting {

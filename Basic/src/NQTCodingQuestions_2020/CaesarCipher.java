@@ -30,7 +30,7 @@ Write a function CustomCaesarCipher(int key, String message) which will accept p
 input parameters and returns its cipher text as output.
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 import java.util.Scanner;
 
 public class CaesarCipher {

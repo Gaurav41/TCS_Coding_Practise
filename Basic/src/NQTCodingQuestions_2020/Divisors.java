@@ -30,7 +30,7 @@ Output
 1 2 3 6 9 19
  */
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Divisors {
 

@@ -48,7 +48,7 @@ NUMBER OF CANDIES LEFT : 10
 
 
 
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Candy {
 

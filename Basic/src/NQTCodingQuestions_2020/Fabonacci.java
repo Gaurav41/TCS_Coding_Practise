@@ -29,7 +29,7 @@ Output
 
 5
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Fabonacci {
 

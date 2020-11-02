@@ -48,7 +48,7 @@ Output
 
 0
  */
-package NQTCodingQuestions;
+package NQTCodingQuestions_2020;
 
 public class Vowels {
 
